@@ -1,6 +1,6 @@
-# Soccer Player Tracking & Detection Optimization
+# Football Player Tracking & Detection Optimization
 
-This project optimizes real-time player detection and tracking in soccer using the **YOLOv8-Nano** architecture.
+This project optimizes real-time player detection and tracking in football using the **YOLOv8-Nano** architecture.
 
 ## 🚀 Optimization Strategy
 Based on the 2025 research paper *"Real-Time Football Match Analysis Using Deep Learning"*, this project pivots from heavy server-side models (YOLOv8x) to a lightweight **Nano** model.
